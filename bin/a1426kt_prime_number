@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require 'a1426kt_prime_number'
+obj = A1426kt_prime_number.new
+puts obj.determine_prime(191)
+puts obj.determine_prime(100)
+
+
